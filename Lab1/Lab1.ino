@@ -26,8 +26,8 @@ int stopButtonState = 0;
 int nowState = 0;
 
 void setup() { //The Setup function runs once.
-  pinMode(startButtonPin, INPUT);  //Setup SW1 button pin as a input pin.
-  pinMode(stopButtonPin, INPUT);   //Setup SW2 button pin as a input pin.
+//  pinMode(startButtonPin, INPUT);  //Setup SW1 button pin as a input pin.
+//  pinMode(stopButtonPin, INPUT);   //Setup SW2 button pin as a input pin.
   
   pinMode(redLedPin, OUTPUT);   //Setup Red LED pin as an output pin.
   pinMode(blueLedPin, OUTPUT);  //Setup Blue LED pin as an output pin.
