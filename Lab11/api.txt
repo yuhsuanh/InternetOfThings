@@ -1,0 +1,6 @@
+https://thingspeak.com/
+
+1. Create new channel
+2. Copy id, write api key, read api key to your code
+3. Upload to your Arduino
+4. Check the web site if receive the data
