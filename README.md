@@ -11,16 +11,16 @@ Georgian College - COMP1045 Internet of Things
 ### Schedule of Activities  
 WEEK  LESSON  
 1     E001 Blue Blink  
-2     E002 RGB Blink
-3     E003 Rotation Sensor
-4     E004 Light Sensor
-5     E005 Temperature Sensor
-6     E006 Push Button
-7     E007 RGB Fade 
-8     E008 Buzzer
-9     E009 Humidity
-10    E010 LCD
-11    E020 Thing Speak
-12    E012 Servo
-
-13    PIR Motion Sensor
+2     E002 RGB Blink  
+3     E003 Rotation Sensor  
+4     E004 Light Sensor  
+5     E005 Temperature Sensor  
+6     E006 Push Button  
+7     E007 RGB Fade   
+8     E008 Buzzer  
+9     E009 Humidity  
+10    E010 LCD  
+11    E020 Thing Speak  
+12    E012 Servo  
+  
+13    PIR Motion Sensor  
